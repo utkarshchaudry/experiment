@@ -9,3 +9,6 @@ int main() {
 
     return 0;
 }
+//"Enter first number: 4
+Enter second number: 23
+The sum of 4 and 23 is 27"//
