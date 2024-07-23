@@ -9,3 +9,5 @@ int main() {
 
     return 0;
 }
+/*The multiplication of 6 and 8 is 48
+*/
